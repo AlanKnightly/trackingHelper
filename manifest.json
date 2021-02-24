@@ -1,0 +1,16 @@
+{
+  "name": "Tracking Helper",
+  "version": "1.0",
+  "description": "A Tracking Helper",
+  "manifest_version": 2,
+  "devtools_page": "./html/devtools.html",
+  "permissions": [
+    "contextMenus",
+    "tabs",
+    "notifications",
+    "webRequest",
+    "webRequestBlocking",
+    "storage",
+    "<all_urls>"
+  ]
+}
